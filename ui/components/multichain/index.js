@@ -3,5 +3,6 @@ export { AccountListItemMenu } from './account-list-item-menu';
 export { AccountListMenu } from './account-list-menu';
 export { AccountPicker } from './account-picker';
 export { DetectedTokensBanner } from './detected-token-banner';
+export { GlobalMenu } from './global-menu';
 export { MultichainImportTokenLink } from './multichain-import-token-link';
 export { MultichainTokenListItem } from './multichain-token-list-item';
